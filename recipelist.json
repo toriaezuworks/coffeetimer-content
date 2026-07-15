@@ -1,0 +1,29 @@
+{
+  "format": "CoffeeTimerRecipeList",
+  "formatVersion": 1,
+  "app": "CoffeeTimer",
+  "updatedAt": "2026-07-15",
+  "items": [
+    {
+      "id": "46-method",
+      "name": "4:6",
+      "brewMethod": "4:6 Method (by Tetsu Kasuya)",
+      "coffeeAmount": 20.0,
+      "file": "46-method.json"
+    },
+    {
+      "id": "hybrid-method",
+      "name": "Hybrid",
+      "brewMethod": "Hybrid Method (by Tetsu Kasuya)",
+      "coffeeAmount": 20.0,
+      "file": "hybrid-method.json"
+    },
+    {
+      "id": "new-hybrid-method",
+      "name": "New Hybrid",
+      "brewMethod": "New Hybrid Method (by Tetsu Kasuya)",
+      "coffeeAmount": 20.0,
+      "file": "new-hybrid-method.json"
+    }
+  ]
+}

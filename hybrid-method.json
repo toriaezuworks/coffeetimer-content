@@ -1,0 +1,16 @@
+{
+  "format": "CoffeeTimerRecipe",
+  "formatVersion": 1,
+  "app": "CoffeeTimer",
+  "id": "hybrid-method",
+  "name": "Hybrid",
+  "brewMethod": "Hybrid Method (by Tetsu Kasuya)",
+  "coffeeAmount": 20.0,
+  "steps": [
+    { "elapsedTimeSeconds": 0, "stepNotes": "1st Pour", "readAloud": true, "notificationSoundUri": "", "valveState": "OPEN", "waterAmount": 60 },
+    { "elapsedTimeSeconds": 30, "stepNotes": "2nd Pour / Cool water to 70°C", "readAloud": true, "notificationSoundUri": "", "valveState": "OPEN", "waterAmount": 120 },
+    { "elapsedTimeSeconds": 75, "stepNotes": "3rd Pour", "readAloud": true, "notificationSoundUri": "", "valveState": "CLOSE", "waterAmount": 280 },
+    { "elapsedTimeSeconds": 105, "stepNotes": "4th Pour", "readAloud": true, "notificationSoundUri": "", "valveState": "OPEN", "waterAmount": 280 },
+    { "elapsedTimeSeconds": 180, "stepNotes": "Complete", "readAloud": true, "notificationSoundUri": "", "valveState": "OPEN", "waterAmount": 280 }
+  ]
+}

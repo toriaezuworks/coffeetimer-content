@@ -1,0 +1,16 @@
+{
+  "format": "CoffeeTimerRecipe",
+  "formatVersion": 1,
+  "app": "CoffeeTimer",
+  "id": "46-method",
+  "name": "4:6",
+  "brewMethod": "4:6 Method (by Tetsu Kasuya)",
+  "coffeeAmount": 20.0,
+  "steps": [
+    { "elapsedTimeSeconds": 0, "stepNotes": "1st Pour", "readAloud": true, "notificationSoundUri": "", "valveState": "OPEN", "waterAmount": 60 },
+    { "elapsedTimeSeconds": 45, "stepNotes": "2nd Pour", "readAloud": true, "notificationSoundUri": "", "valveState": "OPEN", "waterAmount": 120 },
+    { "elapsedTimeSeconds": 90, "stepNotes": "3rd Pour", "readAloud": true, "notificationSoundUri": "", "valveState": "OPEN", "waterAmount": 210 },
+    { "elapsedTimeSeconds": 135, "stepNotes": "4th Pour", "readAloud": true, "notificationSoundUri": "", "valveState": "OPEN", "waterAmount": 300 },
+    { "elapsedTimeSeconds": 210, "stepNotes": "Complete", "readAloud": true, "notificationSoundUri": "", "valveState": "OPEN", "waterAmount": 300 }
+  ]
+}
